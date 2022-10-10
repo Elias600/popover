@@ -1,6 +1,6 @@
 {
   "name": "@uavia-deps/popover",
-  "version": "4.0.1",
+  "version": "4.0.3",
   "peerDependencies": {
     "@angular/animations": ">= 10.0.0",
     "@angular/cdk": ">= 10.0.0",

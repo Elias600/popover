@@ -1,6 +1,6 @@
 {
   "$schema": "../../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../../dist/material-extended/mde",
+  "dest": "../../../dist/popover",
   "lib": {
     "entryFile": "src/public_api.ts"
   }
